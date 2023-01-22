@@ -1,0 +1,1 @@
+doesnt count 0 and 9

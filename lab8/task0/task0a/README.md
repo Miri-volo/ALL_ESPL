@@ -1,0 +1,1 @@
+readelf -h ./abc
